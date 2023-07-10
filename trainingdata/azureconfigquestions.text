@@ -1,0 +1,9 @@
+__label__configure __label__create __label_VM __label__azure How do I create a virtual machine (VM) in Azure?
+__label__configure __label__settings __label__availability __label__azure What are availability sets in Azure and how do I configure them?
+__label__configure __label__securitygroups __label__nsgs __label_azure do I configure network security groups (NSGs) in Azure?
+__label__configure __label__vnetpeering __label__azure How can I set up Azure virtual network (VNet) peering?
+__label__configure __label__load__balancer __label__azure How do I configure load balancing for virtual machines in Azure?
+__label__configure __label__create __label_ec2 __label__aws How do I create an EC2 instance in AWS?
+__label__configure __label__aws __label__create __label__s3 What is an Amazon S3 bucket and how do I configure it in AWS?
+__label__configure __label__aws __label__loadbalance __label_ec2 How can I set up load balancing for EC2 instances in AWS?
+__label__configure __label__database__label__aws What is an Amazon RDS database and how do I configure it in AWS?
