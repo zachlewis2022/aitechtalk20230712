@@ -1,4 +1,5 @@
 numpy
 scipy
 pybind11
+gensim
 fasttext
